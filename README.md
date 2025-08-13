@@ -64,5 +64,5 @@ It provides insights into salaries, skills, demographics, job satisfaction, and 
 
 ## 📬 Contact
 For questions, suggestions, or feedback, connect via:
-- **LinkedIn**: [Your LinkedIn URL]
-- **Email**: [Your Email Address]
+- **LinkedIn**: [https://www.linkedin.com/in/nitish-pardal-69b0a3205/]
+- **Email**: [nitishpardal@gmail.com]
